@@ -1,7 +1,7 @@
 # jsonCHS2CHT
 A tool that can change CHS in json to CHT using OpenCC
 
-### DynamicStringDistributor JSON Processor
+## DynamicStringDistributor JSON Processor
 
 ## Overview
 This script processes JSON files inside subfolders of the `DynamicStringDistributor` directory. It performs the following tasks:
@@ -23,7 +23,7 @@ pip install opencc
 2. Run the script using:
 
 ```bash
-python script_name.py
+python jsonCHS2CHT.py
 ```
 
 ## Processing Details
